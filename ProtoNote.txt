@@ -1,2 +1,0 @@
-Hi everyone! :[]
-This is my first time using Git and a Repository..
