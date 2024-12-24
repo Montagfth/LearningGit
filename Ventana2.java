@@ -9,7 +9,7 @@ public class Ventana2 {
         ven2.setSize(500,500);
         ven2.setLocationRelativeTo(null);
 
-        //Logica de interaccion:
+        //Logica de interaccion(Front-end):
         
     }
 }
